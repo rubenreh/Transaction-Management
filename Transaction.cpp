@@ -1,3 +1,6 @@
+//Author : Ruben Rehal
+//Date : December 5, 2023
+
 #include "Transaction.h"
 
 // Constructor implementation
