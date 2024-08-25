@@ -3,7 +3,7 @@ First Year Computer Engineering Project
 
 ## Overview
 
-**Mo Money** is a C++ project designed to manage financial transactions and generate detailed reports. The system allows users to add deposits and withdrawals, track the balance over time, and produce a summary of all transactions. This project demonstrates the use of object-oriented programming principles, file I/O, and basic financial calculations.
+**Mo Money** is a C++ project designed to manage financial transactions and generate detailed reports. This project was apart of my first year curriculum. The system allows users to add deposits and withdrawals, track the balance over time, and produce a summary of all transactions. This project demonstrates the use of object-oriented programming principles, file I/O, and basic financial calculations.
 
 ## Features
 
