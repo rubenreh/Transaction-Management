@@ -1,7 +1,5 @@
-# Transaction-Management
-First Year Computer Engineering Project
-
 # Transaction Management and Financial Reporting System
+First Year Computer Engineering Project
 
 ## Overview
 
