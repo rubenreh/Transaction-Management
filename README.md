@@ -16,11 +16,11 @@ First Year Computer Engineering Project
 
 To successfully understand and work on this project, you should be familiar with the following C++ concepts:
 
-- **Pointers and Dynamic Memory Management** (Lectures 2.2, 2.4): Efficiently handling memory allocation, deallocation, and pointer usage.
-- **Classes and Object-Oriented Programming** (Lectures 4.1, 4.2, 4.3): Designing and implementing classes, encapsulation, and object management.
-- **Simple Sorting Algorithms** (Lectures 3.4, 3.5): Implementing basic sorting techniques for organizing data.
-- **Operator Overloading** (Lecture 4.4): Customizing operators for class objects to perform specific tasks.
-- **Linked Lists** (Lecture 5.2): Using linked lists to manage dynamic collections of data.
+- **Pointers and Dynamic Memory Management** : Efficiently handling memory allocation, deallocation, and pointer usage.
+- **Classes and Object-Oriented Programming** : Designing and implementing classes, encapsulation, and object management.
+- **Simple Sorting Algorithms** : Implementing basic sorting techniques for organizing data.
+- **Operator Overloading** : Customizing operators for class objects to perform specific tasks.
+- **Linked Lists** : Using linked lists to manage dynamic collections of data.
 
 ## File Structure
 
